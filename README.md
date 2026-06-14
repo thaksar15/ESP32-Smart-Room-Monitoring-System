@@ -52,6 +52,14 @@ Features:
 - OLED displays live readings.
 - Buzzer activates when temperature exceeds the set threshold.
 
+## Project Photos
+
+![Photo 1](IMG20260614120644.jpg)
+
+![Photo 2](IMG20260614123407.jpg)
+
+![Photo 3](IMG20260614123410.jpg)
+
 ## Author
 
 Sarthak Chitnis
